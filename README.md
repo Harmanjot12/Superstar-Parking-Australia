@@ -11,6 +11,6 @@ The program should also check the input for validity according to the following 
 <li>The exit time must be greater than the entrance time.</li>
 </ul>
 
-<br><br>
+<br>
 
 <p>The program sholud also open a file 'cars-parked-r.bin' for reading and read each record, splitting it into its component fields and checking each field for validity. The rules for validity are similar to those of Program A, with the additional rule that each record must contain exactly fields that helps to save the record that allow car to exits. Your program should print out each valid record it reads. Your program should terminate when it reads an invalid record, printing out on which line number the error occurred, and what the error was.</p>
