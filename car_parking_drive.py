@@ -5,7 +5,7 @@ from datetime import date
 import sys
 
 #creating list of for records
-record = []
+record = [ ] 
 
 
 #select weather car enters or exits
